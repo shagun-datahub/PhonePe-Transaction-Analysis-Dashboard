@@ -24,7 +24,7 @@ Compared transaction categories to understand user behavior.
 Visualized key metrics for better decision-making.
 
 📷 Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot][https://github.com/shagun-datahub/PhonePe-Transaction-Analysis-Dashboard/blob/f1ec6aaa911b821733c87d1fd8b15c90e20d3771/Dashboard-Screenshot.png]
 
 📚 Skills Demonstrated
 Data Cleaning
